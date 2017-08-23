@@ -1,0 +1,6 @@
+c:\users\agus\documents\visual studio 2015\Projects\Game again\Game again\bin\Debug\Game again.exe.config
+c:\users\agus\documents\visual studio 2015\Projects\Game again\Game again\bin\Debug\Game again.exe
+c:\users\agus\documents\visual studio 2015\Projects\Game again\Game again\bin\Debug\Game again.pdb
+c:\users\agus\documents\visual studio 2015\Projects\Game again\Game again\obj\Debug\Game again.csprojResolveAssemblyReference.cache
+c:\users\agus\documents\visual studio 2015\Projects\Game again\Game again\obj\Debug\Game again.exe
+c:\users\agus\documents\visual studio 2015\Projects\Game again\Game again\obj\Debug\Game again.pdb
